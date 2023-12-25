@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "lib": ["ES2022", "DOM"],
+    "module": "NodeNext",
+    "declaration": true,
+    "moduleResolution": "NodeNext",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "target": "ES2022",
+    "baseUrl": "src",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "importHelpers": false,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "skipDefaultLibCheck": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "exclude": ["node_modules", "dist"],
+  "compileOnSave": true
+}
