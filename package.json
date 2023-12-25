@@ -1,6 +1,6 @@
 {
   "name": "sappquestions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sappQuestions is an npm package that provides a collection of questions in various languages. It allows you to retrieve random questions or questions from specific categories.",
   "type": "commonjs",
   "main": "dist/index.js",

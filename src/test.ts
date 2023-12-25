@@ -22,9 +22,9 @@ async function main() {
     console.log("Available categories:", categories);
   });
 
-  // Fetch and display available quotes
-  await fetchQuestions(Language["en-US"]).then((quotes) => {
-    console.log("Available quotes:", quotes);
+  // Fetch and display available questions
+  await fetchQuestions(Language["en-US"]).then((questions) => {
+    console.log("Available questions:", questions);
   });
 }
 
